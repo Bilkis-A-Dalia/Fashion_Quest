@@ -1,0 +1,91 @@
+
+.navbar{
+    background: #1A187A;
+}
+
+.nav-menu{
+    color: antiquewhite;
+}
+.banner{
+    background-image: linear-gradient(to right, rgb(192, 238, 255),rgb(153, 0, 255));
+}
+.headphone{
+    background-color:rgb(173, 194, 215) ;
+}
+.card-body{
+    background-color: rgb(237, 237, 237);
+}
+
+.discount{
+    background-color: rgb(149, 138, 212);
+    padding: 40px;
+}
+.salep{
+    text-align: center;
+    color: aliceblue;
+}
+.salecomment{
+    text-align: center;
+    color: #0E071B;
+}
+.footer{
+    background: #0E071B;
+}
+.featured-products {
+    height: 1000px;
+}
+.i-pad{
+    height: 300px;
+}
+.headphone {
+    height: 300px;
+}
+.mackbook{
+    background-color: rgb(237, 237, 237);
+}
+.slider-image
+{
+    width: 200px;
+}
+.discount-colour
+{
+    color: aliceblue;
+    font-weight: bold;
+}
+.service-colour
+{
+    color: antiquewhite;
+}
+.icon-color{
+    color: antiquewhite;
+}
+.text{
+    text-align: center;
+}
+.three{
+    display: flex;
+}
+.right{
+    display: flex;
+    align-items: center;
+}
+.mactext{
+    margin: auto;
+    text-align: center;
+
+}
+.leftf{
+    display: flex;
+    align-items: center;
+}
+.lefts{
+    display: flex;
+    align-items: center;
+    background-color: #798296;
+}
+.carousel-caption{
+    text-align: center;
+}
+.slidepic{
+    width: 100%;
+}
